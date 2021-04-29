@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\natha\OneDrive\Documents\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\natha\OneDrive\Documents\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\natha\OneDrive\Documents\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\natha\OneDrive\Documents\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
